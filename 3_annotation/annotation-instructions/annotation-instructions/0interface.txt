@@ -1,0 +1,20 @@
+<View style="display: flex;">
+  <Image name="image" value="$image"/>
+      <Text name="ageText" value="age"/>
+  <Choices name="age" toName="image">
+  <Choice value="child (1-9)"/><Choice value="adolescent (10-19)"/><Choice value="young adult (20-29)"/><Choice value="middle-aged (30-49)"/><Choice value="older adult (50-65)"/><Choice value="elderly (65+)"/></Choices>
+  
+        <Text name="sexText" value="sex"/>
+    <Choices name="sex" toName="image">
+    
+    
+    
+  <Choice value="Man"/><Choice value="Woman"/></Choices>
+  
+        <Text name="ethnicityText" value="ethnicity"/>
+    <Choices name="ethnicity" toName="image">
+    
+    
+    
+  <Choice value="asian"/><Choice value="indian"/><Choice value="black"/><Choice value="white"/><Choice value="middle eastern"/><Choice value="latino hispanic"/></Choices>
+</View>
