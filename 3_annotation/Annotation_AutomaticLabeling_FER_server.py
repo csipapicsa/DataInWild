@@ -69,13 +69,14 @@ def analyze_faces_in_directory(directory, emotion_folder, expansion="", demo=Fal
     else:
         print("No results to save!")
 
-# ------ user inputs ------
-DEMO = False
-directory_path = '../datasets/ck/'
-expansion = "ck"
-# -------------------------
 
-emotion_folders = ['anger', 'disgust', 'fear', 'happy', 'sadness', 'surprise', 'contempt']
+# ---------------------------------------------
+# THIS IS IT MTHRFCKR                       
+# ---------------------------------------------
+DEMO = False
+directory_path = '../datasets/FER2013/test'
+expansion = "fer"
+emotion_folders = ['angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']
 for e in emotion_folders:
     analyze_faces_in_directory(directory=f"{directory_path}/{e}", 
                                emotion_folder=e,
