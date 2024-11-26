@@ -1,0 +1,39 @@
+,datasetName,folderName,imageName,Age,Gender,Race,Age_A1,Gender_A1,Ethnicity_A1,Age_A2,Gender_A2,Ethnicity_A2,Age_A3,Gender_A3,Ethnicity_A3,Final_Age,Final_Gender,Final_Ethnicity
+0,AffectNet,anger,image0001063,middle-aged adult (30-49),woman,white,Baby (0-1),Man,White,Baby (0-1),Man,White,Baby (0-1),Man,White,baby (0-1),man,white
+1,AffectNet,anger,image0003108,middle-aged adult (30-49),man,middle eastern,Middle-aged Adult (30-49),Man,Middle Eastern,Middle-aged Adult (30-49),Man,Middle Eastern,Middle-aged Adult (30-49),Man,Middle Eastern,middle-aged adult (30-49),man,middle eastern
+2,AffectNet,contempt,image0006264,young adult (20-29),woman,black,Middle-aged Adult (30-49),Woman,Black,Young Adult (20-29),Woman,Black,Young Adult (20-29),Woman,Black,young adult (20-29),woman,black
+3,AffectNet,contempt,image0013196,older adult (50-65),man,asian,Elderly (65+),Man,Asian,Elderly (65+),Man,Asian,Elderly (65+),Man,Asian,elderly (65+),man,asian
+4,AffectNet,contempt,image0019021,middle-aged adult (30-49),woman,asian,Young Adult (20-29),Woman,Asian,Young Adult (20-29),Woman,Asian,Young Adult (20-29),Woman,Asian,young adult (20-29),woman,asian
+5,AffectNet,contempt,image0035153,older adult (50-65),man,white,Elderly (65+),Woman,White,Elderly (65+),Woman,White,Elderly (65+),Woman,White,elderly (65+),woman,white
+6,AffectNet,disgust,ffhq_20,middle-aged adult (30-49),man,black,Older Adult (50-65),Man,Black,Older Adult (50-65),Man,Black,Older Adult (50-65),Man,Black,older adult (50-65),man,black
+7,AffectNet,disgust,ffhq_48,young adult (20-29),man,asian,Child (2-9),Woman,Asian,Child (2-9),Woman,Asian,Child (2-9),Woman,Asian,child (2-9),woman,asian
+8,AffectNet,disgust,image0000866,young adult (20-29),man,black,Young Adult (20-29),Man,Black,Adolescent (10-19),Man,Black,Young Adult (20-29),Man,Black,young adult (20-29),man,black
+9,AffectNet,disgust,image0002926,middle-aged adult (30-49),man,white,Middle-aged Adult (30-49),Man,Middle Eastern,Middle-aged Adult (30-49),Man,White,Middle-aged Adult (30-49),Man,White,middle-aged adult (30-49),man,white
+10,AffectNet,disgust,image0011562,middle-aged adult (30-49),man,asian,Child (2-9),Man,Black,Child (2-9),Man,Black,Adolescent (10-19),Man,Latino/Hispanic,child (2-9),man,black
+11,AffectNet,fear,image0001685,young adult (20-29),man,middle eastern,Young Adult (20-29),Woman,Latino/Hispanic,Adolescent (10-19),Woman,Middle Eastern,Young Adult (20-29),Woman,Middle Eastern,young adult (20-29),woman,middle eastern
+12,AffectNet,fear,image0003731,young adult (20-29),man,white,Young Adult (20-29),Man,Latino/Hispanic,Young Adult (20-29),Man,Latino/Hispanic,Young Adult (20-29),Man,Latino/Hispanic,young adult (20-29),man,latino hispanic
+13,AffectNet,fear,image0012755,young adult (20-29),man,latino hispanic,Adolescent (10-19),Man,Latino/Hispanic,Adolescent (10-19),Man,Indian,Adolescent (10-19),Man,Latino/Hispanic,adolescent (10-19),man,latino hispanic
+14,AffectNet,fear,image0013449,young adult (20-29),man,middle eastern,Middle-aged Adult (30-49),Man,Latino/Hispanic,Young Adult (20-29),Woman,Middle Eastern,Middle-aged Adult (30-49),Woman,Middle Eastern,middle-aged adult (30-49),woman,middle eastern
+15,AffectNet,fear,image0016644,young adult (20-29),man,asian,Baby (0-1),Man,Middle Eastern,Baby (0-1),Man,Black,Baby (0-1),Man,Black,baby (0-1),man,black
+16,AffectNet,fear,image0018838,young adult (20-29),man,white,Child (2-9),Man,White,Baby (0-1),Woman,White,Child (2-9),Man,Latino/Hispanic,child (2-9),man,white
+17,AffectNet,happy,ffhq_10,middle-aged adult (30-49),man,latino hispanic,Middle-aged Adult (30-49),Woman,White,Middle-aged Adult (30-49),Woman,Asian,Young Adult (20-29),Woman,White,middle-aged adult (30-49),woman,white
+18,AffectNet,happy,ffhq_164,middle-aged adult (30-49),man,black,Middle-aged Adult (30-49),Man,Black,Middle-aged Adult (30-49),Man,Black,Middle-aged Adult (30-49),Man,Black,middle-aged adult (30-49),man,black
+19,AffectNet,happy,ffhq_3,middle-aged adult (30-49),woman,asian,Middle-aged Adult (30-49),Woman,Asian,Middle-aged Adult (30-49),Woman,Asian,Older Adult (50-65),Woman,Asian,middle-aged adult (30-49),woman,asian
+20,AffectNet,happy,ffhq_357,middle-aged adult (30-49),man,black,Child (2-9),Man,Black,Child (2-9),Man,Black,Child (2-9),Man,Black,child (2-9),man,black
+21,AffectNet,happy,ffhq_7,young adult (20-29),woman,asian,Child (2-9),Man,Asian,Child (2-9),Woman,Latino/Hispanic,Child (2-9),Man,Latino/Hispanic,child (2-9),man,latino hispanic
+22,AffectNet,neutral,ffhq_0,young adult (20-29),woman,asian,Child (2-9),Man,White,Baby (0-1),Woman,Latino/Hispanic,Baby (0-1),Man,Latino/Hispanic,baby (0-1),man,latino hispanic
+23,AffectNet,neutral,ffhq_107,middle-aged adult (30-49),woman,indian,Older Adult (50-65),Woman,White,Older Adult (50-65),Woman,White,Older Adult (50-65),Woman,White,older adult (50-65),woman,white
+24,AffectNet,neutral,ffhq_130,adolescent (10-19),man,asian,Child (2-9),Woman,Asian,Child (2-9),Woman,Asian,Child (2-9),Woman,Middle Eastern,child (2-9),woman,asian
+25,AffectNet,neutral,ffhq_498,middle-aged adult (30-49),man,indian,Middle-aged Adult (30-49),Man,Indian,Middle-aged Adult (30-49),Man,Indian,Older Adult (50-65),Woman,Middle Eastern,middle-aged adult (30-49),man,indian
+26,AffectNet,neutral,ffhq_54,middle-aged adult (30-49),man,indian,Middle-aged Adult (30-49),Man,Indian,Middle-aged Adult (30-49),Man,Indian,Middle-aged Adult (30-49),Man,Indian,middle-aged adult (30-49),man,indian
+27,AffectNet,neutral,ffhq_72,middle-aged adult (30-49),man,indian,Middle-aged Adult (30-49),Man,Black,Middle-aged Adult (30-49),Man,Black,Middle-aged Adult (30-49),Man,Black,middle-aged adult (30-49),man,black
+28,AffectNet,neutral,ffhq_736,middle-aged adult (30-49),man,middle eastern,Older Adult (50-65),Man,Middle Eastern,Older Adult (50-65),Man,Middle Eastern,Older Adult (50-65),Man,Indian,older adult (50-65),man,middle eastern
+29,AffectNet,sad,image0006237,middle-aged adult (30-49),man,white,Older Adult (50-65),Man,Middle Eastern,Older Adult (50-65),Man,Middle Eastern,Elderly (65+),Man,Middle Eastern,older adult (50-65),man,middle eastern
+30,AffectNet,sad,image0016204,middle-aged adult (30-49),woman,white,Older Adult (50-65),Woman,White,Middle-aged Adult (30-49),Woman,White,Young Adult (20-29),Woman,White,ambiguous,woman,white
+31,AffectNet,sad,image0016331,middle-aged adult (30-49),woman,asian,Older Adult (50-65),Woman,White,Older Adult (50-65),Woman,Asian,Elderly (65+),Woman,Asian,older adult (50-65),woman,asian
+32,AffectNet,sad,image0020274,young adult (20-29),woman,white,Young Adult (20-29),Woman,White,Young Adult (20-29),Woman,White,Adolescent (10-19),Woman,White,young adult (20-29),woman,white
+33,AffectNet,sad,image0020311,middle-aged adult (30-49),man,black,Child (2-9),Man,Black,Child (2-9),Man,Black,Child (2-9),Man,Black,child (2-9),man,black
+34,AffectNet,surprise,ffhq_15,middle-aged adult (30-49),man,white,Young Adult (20-29),Woman,Asian,Young Adult (20-29),Man,White,Adolescent (10-19),Man,White,young adult (20-29),man,white
+35,AffectNet,surprise,ffhq_30,adolescent (10-19),man,asian,Child (2-9),Man,Asian,Baby (0-1),Man,Black,Child (2-9),Man,Latino/Hispanic,child (2-9),man,ambiguous
+36,AffectNet,surprise,ffhq_367,young adult (20-29),man,asian,Young Adult (20-29),Man,Latino/Hispanic,Young Adult (20-29),Man,Asian,Adolescent (10-19),Man,Asian,young adult (20-29),man,asian
+37,AffectNet,surprise,image0023529,middle-aged adult (30-49),man,white,Elderly (65+),Woman,White,Elderly (65+),Woman,White,Elderly (65+),Woman,White,elderly (65+),woman,white
