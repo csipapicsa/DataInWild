@@ -1,4 +1,4 @@
-# Automatic Annotation Scripts
+# Annotation Scripts
 
 ## Overview
 This folder contains Jupyter Notebook files designed for automatic annotation of facial emotion datasets using the **DeepFace** framework. These scripts facilitate the analysis and labeling of images across various datasets, including AffectNet, CK+, FER2013, and JAFFE. By leveraging the pre-trained models provided by DeepFace, these notebooks automate the process of annotating image datasets with attributes such as **age**, **gender**, **race**, and **emotion**.
