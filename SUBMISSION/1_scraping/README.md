@@ -1,4 +1,6 @@
 ### Fodler structure
+`dataset_finding`
+-Has the notebooks and the data to produce the table of how many papers were found relating to our topic, 'Scrapes_All.csv'
 
 `1_scraping`
  - contains whatever
