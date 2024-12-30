@@ -1,3 +1,12 @@
+### TO Run:
+1) Run the 6 notebooks in "dataset_finding" in ascending order and then the merge notebook. This creates 'Scrapes_All.csv' in the 1_scraping folder.
+2) Run the notebooks in "x_research_papers_save" in ascending order. This will produce 3 files in the "xx_results" which contain the full texts from each source.
+3) Run the "AllFullTextsTOCSV" notebook to merge the 3 files produced in the previous step into "FullTextscrapes.csv" which will be under the "/1_scraping/" folder
+
+
+
+
+
 ### Folder structure
 
 `dataset_finding`
@@ -8,13 +17,6 @@
 
  `x_research_papers_save\1_raw_files`
  - contains papers in html from science direct
-
-### TO Run:
-1) Run the 6 notebooks in "dataset_finding" in ascending order and then the merge notebook. This creates 'Scrapes_All.csv' in the 1_scraping folder.
-2) Run the notebooks in "x_research_papers_save" in ascending order. This will produce 3 files in the "xx_results" which contain the full texts from each source.
-3) Run the "AllFullTextsTOCSV" notebook to merge the 3 files produced in the previous step into "FullTextscrapes.csv" which will be under the "/1_scraping/" folder
-
-
 
 
 ```
