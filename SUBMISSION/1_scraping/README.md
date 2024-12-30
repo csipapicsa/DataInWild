@@ -1,13 +1,15 @@
 ### Fodler structure
 
-`1_scraping`
- - contains whatever
- - 
 `dataset_finding`
--Has the notebooks and the data to produce the table of how many papers were found relating to our topic, 'Scrapes_All.csv'
+- Has the notebooks and the data to produce the table of how many papers were found relating to our topic, 'Scrapes_All.csv'
+
+`x_research_papers_save`
+- Contains the notebooks and all the data in order to get the full texts from the papers we found in 'Scrapes_All.csv'
 
  `x_research_papers_save\1_raw_files`
  - contains papers in html from science direct
+
+   
 
 ```
  📦1_scraping
