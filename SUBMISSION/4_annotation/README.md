@@ -1,29 +1,47 @@
 # Annotation Scripts
 
 ## Overview
-This folder contains Jupyter Notebook files designed for automatic annotation of facial emotion datasets using the **DeepFace** framework. These scripts facilitate the analysis and labeling of images across various datasets, including AffectNet, CK+, FER2013, and JAFFE. By leveraging the pre-trained models provided by DeepFace, these notebooks automate the process of annotating image datasets with attributes such as **age**, **gender**, **race**, and **emotion**.
+This folder contains all the scripts, resources, and outputs related to our annotation process. The annotation process is divided into three main components, each with a dedicated folder:
 
-Please set the `DEMO` variable to `True` in the notebook files to enable the demonstration mode. 
+### 1. `1_manual`
+This folder contains resources and scripts used for the **manual annotation process**.
 
-## Folder Structure
+### 2. `2_automated`
+This folder contains scripts and tools used for the **automated annotation process**.  
+Read the `README.md` file inside the folder, or use our results from the `2_automated/results` folder.  
+You can choose which dataset you are interested in: AffectNet - Test, CK+, FER2013, or JAFFE.
 
-1_automatic/ 
+### 3. `3_annotation_results`
+This folder contains the consolidated results of the manual and automated annotations, along with tools for further analysis. It includes:
+- **Merged datasets**: Contains both manual and automated annotations for each image.  
+  - `AutomatedAnnotations_ALL.csv`: Generated in `1_Automated_Merge.ipynb`.
+- **Analysis notebook**:  
+  - `2_Annotation_AutomatedResults.ipynb` includes:
+    - Results of demographic analysis highlighting disparities or imbalances across datasets.
+    - Scripts for visualizing demographic distributions and analyzing annotation accuracy.
 
--- KATA or Gergo TODO
+---
 
-2_automatic/ 
+## How to Use
+1. Navigate to the folder corresponding to the annotation process you're interested in (`1_manual` or `2_automated`).
+2. Run the provided scripts or view the output file in the `3_annotation_results` folder.
+3. Use the visualization and analysis scripts to explore the demographic characteristics of your annotated datasets.
 
--- Contains Jupyter Notebook files for automatic annotation of facial emotion datasets using the DeepFace framework.
+---
 
-01_-_Annotation_AutomaticLabeling_AFFECTNet.ipynb       # Automatic annotation for AffectNet 
+## Additional Features
+- **Inter-annotator Agreement**:
+  - Calculated using Fleiss' Kappa for demographic categories like gender and ethnicity.
+  - Provides metrics on consistency between manual annotations.
+  
+- **Demographic Analysis**:
+  - Includes distribution analysis for ethnicity, age, and gender across annotated datasets.
+  - Results are presented in both tabular and visual formats for clarity.
 
-02_-_Annotation_AutomaticLabeling_CK.ipynb              # Automatic annotation for CK+ dataset 
+- **Validation of Automated Annotations**:
+  - Automated annotations are compared to manual annotations to assess their reliability and identify potential biases in pre-trained models.
 
-03_-_Annotation_AutomaticLabeling_FER.ipynb             # Automatic annotation for FER2013 dataset 
+---
 
-04_-_Annotation_AutomaticLabeling_JAFFE.ipynb           # Automatic annotation for JAFFE dataset 
-
-3_annotation_results/
-
--- Contains the results of the automatic annotation in the form of CSV files.
+## Repository Structure
 
