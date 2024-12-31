@@ -24,5 +24,37 @@ To run the code, please follow the instructions below:
 - The `4_annotation` folder contains all code and resources related to the annotation process.
 - If you're interested in exploring or replicating the annotation process, please refer to the `README.md` file inside the `4_annotation` folder.
 
+## Datasets Generated in This Project
+
+### Dataset 1: `1_scraping/FullText_ALL.csv`
+This dataset contains metadata and full text extracted from academic papers. Below are the column descriptions:
+
+#### Column Names:
+- **ID**: Unique identifier for each paper.
+- **Title**: Title of the academic paper.
+- **Authors**: Names of the paper's authors.
+- **Year**: Year of publication.
+- **Cited By**: Number of citations.
+- **Detected_Dataset**: FER datasets mentioned in the paper.
+- **Detected_Topic**: Topics relevant to the paper.
+- **Abstract**: Abstract of the paper.
+- **Journal**: Journal in which the paper was published.
+- **URL**: Link to the paper's source.
+- **Full_Text**: Extracted full text of the paper.
+
+---
+
+### Dataset 2: `4_annotation/3_annotation_results/2_Annotation_AutomatedResults.csv`
+This dataset contains the results of automated annotations, focusing on demographic attributes. Below are the details:
+
+
+#### Column names:
+- **datasetName**
+- **folderName**
+- **imageName**
+- **Age**
+- **Gender**
+- **Ethnicity**
+
 
 
