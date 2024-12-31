@@ -45,7 +45,7 @@ This dataset contains metadata and full text extracted from academic papers. Bel
 ---
 
 ### Dataset 2: `4_annotation/3_annotation_results/2_Annotation_AutomatedResults.csv`
-This dataset contains the results of automated annotations, focusing on demographic attributes. Below are the details:
+This secondary dataset contains the results of automated annotations, focusing on demographic attributes. Below are the details:
 
 
 #### Column names:
