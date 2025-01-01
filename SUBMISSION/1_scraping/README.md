@@ -1,6 +1,6 @@
-### TO Run:
+### To Run:
 
-1. Run the **5 ExtendedScrape Jupyter notebooks** in the "data_collection" folder in ascending order, followed by the merge notebook. This process creates the file `Scrapes_ALL.csv` in the `1_scraping` folder.
+1. Run the **5 ExtendedScrape Jupyter notebooks** in the "data_collection" folder in ascending order, followed by the merge notebook. These notebooks will search for papers on Google Scholar based on combinations of FER dataset names (`fer_datasets_LONG`) and relevant topics (`topics`) This process creates the file `Scrapes_ALL.csv` in the `1_scraping` folder.
 2. Run the notebooks in the **"full_text_extraction"** folder in ascending order. This step will produce 3 files in the `results` folder containing the full texts extracted from each source.
 3. Run the **"AllFullTextsTOCSV"** notebook to merge the 3 files produced in the previous step into a single file, `FullText_ALL.csv`, which will be saved in the `/1_scraping/` folder.
 

@@ -1,9 +1,13 @@
-TODO
+This folder contains the following datasets:
 
-### Investigating the Impact of Demographic Diversity on Model Generalization in Facial Expression Recognition (FER) Systems
+- AffectNet+
+- CK+
+- FER2013
+- JAFFE
 
-This folder contains datasets used in this report. These datasets are avaialbe for download from the following links:
+All dataset is downloaded from the following links:
 
-...
-
-...
+- AffectNet+: http://mohammadmahoor.com/affectnet/
+- CK+: https://www.kaggle.com/datasets/davilsena/ckdataset
+- FER2013: https://www.kaggle.com/datasets/msambare/fer2013
+- JAFFE: https://zenodo.org/records/3451524
