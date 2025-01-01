@@ -41,7 +41,4 @@ This folder contains the consolidated results of the manual and automated annota
 - **Validation of Automated Annotations**:
   - Automated annotations are compared to manual annotations to assess their reliability and identify potential biases in pre-trained models.
 
----
-
-## Repository Structure
 
