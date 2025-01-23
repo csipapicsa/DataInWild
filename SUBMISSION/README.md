@@ -2,7 +2,7 @@
 
 This repository includes all the code and resources necessary for investigating how demographic diversity impacts model generalization in FER systems. It contains scripts for data collection, analysis, and annotation, as well as access to relevant FER datasets.
 
-The `Project_Report.pdf` file provides a detailed overview of the project. For a comprehensive understanding of the project, its findings, and their implications, please read the report before proceeding with the next steps. [TODO: Has to be updated for the hand in]
+The `Project_Report.pdf` file provides a detailed overview of the project. For a comprehensive understanding of the project, its findings, and their implications, please read the report before proceeding with the next steps.
 
 The report covers the following key aspects:
 
